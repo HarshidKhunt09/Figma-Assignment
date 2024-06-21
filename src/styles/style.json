@@ -1,0 +1,24 @@
+{
+  "token": {
+    "radiusBase": "4px",
+    "controlRadius": "4px",
+    "fontFamily": "'Montserrat', sans-serif"
+  },
+  "components": {
+    "Typography": {
+      "fontSizeHeading3": "clamp(20px, 4.6vw, 24px)"
+    },
+    "Button": {
+      "colorPrimary": "#FFCE22",
+      "colorPrimaryActive": "#FFCE22",
+      "colorPrimaryHover": "#FFD84D",
+      "borderRadius": 4,
+      "fontSize": "14px",
+      "colorTextLightSolid": "#1F2128"
+    },
+    "Checkbox": {
+      "controlInteractiveSize": 25,
+      "borderRadiusSM": 6
+    }
+  }
+}
